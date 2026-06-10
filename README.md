@@ -12,6 +12,12 @@ Even or Odd Number
 Factorial of a Number
 Simple Interest Calculator
 
+Number Programs
+Fibonacci Series
+Prime Number
+Palindrome Number
+Armstrong Number
+
 Skills Practiced
 
 Input and Output
