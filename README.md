@@ -1,36 +1,39 @@
 # C-Programming-Portfolio
 Collection of my C programming practice programs and problem-solving exercises.
 
-C Programming Portfolio
-Overview
+
+#Overview
 This repository contains my C programming practice programs and problem-solving exercises.
 Programs Included
 
+#Basic Programs
 Hello World
 Sum of Two Numbers
 Even or Odd Number
 Factorial of a Number
 Simple Interest Calculator
 
-Number Programs
+#Number Programs
 Fibonacci Series
 Prime Number
 Palindrome Number
 Armstrong Number
+Reverse a Number
+Sum of Digits
 
-Array program
+#Array program
 largest element
+Sum of Array Elements
+Linear Search
 
-Skills Practiced
-
+#Skills Practiced
 Input and Output
 Variables and Data Types
 Conditional Statements
 Loops
 Arithmetic Operations
 
-Language Used
-
+#Language Used
 C Programming
 
 Author
