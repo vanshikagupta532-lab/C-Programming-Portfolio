@@ -2,40 +2,58 @@
 Collection of my C programming practice programs and problem-solving exercises.
 
 
-#Overview
+### Overview
 This repository contains my C programming practice programs and problem-solving exercises.
 Programs Included
 
-#Basic Programs
-Hello World
-Sum of Two Numbers
-Even or Odd Number
-Factorial of a Number
-Simple Interest Calculator
+### Basic Programs
+- Hello World
+- Sum of Two Numbers
+- Even or Odd Number
+- Factorial of a Number
+- Simple Interest Calculator
 
-#Number Programs
-Fibonacci Series
-Prime Number
-Palindrome Number
-Armstrong Number
-Reverse a Number
-Sum of Digits
+### Number Programs
+- Fibonacci Series
+- Prime Number
+- Palindrome Number
+- Armstrong Number
+- Reverse a Number
+- Sum of Digits
 
-#Array program
-largest element
-Sum of Array Elements
-Linear Search
+### Array program
+- largest element
+- Sum of Array Elements
+- Linear Search
 
-#Skills Practiced
-Input and Output
-Variables and Data Types
-Conditional Statements
-Loops
-Arithmetic Operations
+### String Programs
+- String Length
+- String Reverse
+- Palindrome String
+- Count Vowels and Consonants
 
-#Language Used
-C Programming
+### Function Programs
+- Calculator Using Functions
+- Factorial Using Function
 
-Author
-Vanshika
-B.Tech EE(CS)
+### Matrix Programs
+- Matrix Addition
+- Matrix Transpose
+
+### Searching & Sorting
+- Binary Search
+- Bubble Sort
+
+### Skills Practiced
+- Input and Output
+- Variables and Data Types
+- Conditional Statements
+- Loops
+- Arithmetic Operations
+
+### Language Used
+- C Programming
+
+### Author
+- Vanshika
+- B.Tech EE(CS)
